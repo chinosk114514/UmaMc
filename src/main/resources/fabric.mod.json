@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "umaplg",
+  "version": "${version}",
+  "name": "Umamusume Simulation",
+  "description": "赛马娘模拟养成",
+  "authors": [
+    "chinosk"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/umaplg/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.chinosk.umaplg.client.UmaplgClient"
+    ],
+    "main": [
+      "com.chinosk.umaplg.Umaplg"
+    ]
+  },
+  "mixins": [
+    "umaplg.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.3",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  },
+  "geckolib3": "*"
+}

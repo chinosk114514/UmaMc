@@ -1,0 +1,37 @@
+{
+  "uuid": "123-456",
+  "playeruuid": "789-123",
+  "speed": 120,
+  "speed_now": 120,
+  "max_speed": 1200,
+  "endurance": 125,
+  "endurance_now": 125,
+  "max_endurance": 1200,
+  "power": 120,
+  "power_now": 120,
+  "max_power": 1200,
+  "perse": 120,
+  "perse_now": 120,
+  "max_perse": 1200,
+  "intelli": 120,
+  "intelli_now": 120,
+  "max_intelli": 120,
+  "mood": 50,
+  "love": 100,
+  "skills": [
+      {
+        "skillIcon": "123.png",
+        "rare": 1,
+        "score": 135,
+        "id": "wuhuqifei",
+        "description": "逸一时, 误一世",
+        "effects": [
+          {
+            "condition": "",
+            "effect_type": "",
+            "effect_value": 200
+          }
+        ]
+      }
+    ]
+}

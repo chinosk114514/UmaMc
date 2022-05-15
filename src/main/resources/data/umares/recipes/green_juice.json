@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:grass", "data": 25565},
+    {"item": "minecraft:grass", "data": 25565},
+    {"item": "minecraft:grass", "data": 25565},
+    {"item": "minecraft:grass", "data": 25565},
+    {"item": "minecraft:grass", "data": 25565},
+    {"item": "minecraft:grass", "data": 25565},
+    {"item": "minecraft:grass", "data": 25565},
+    {"item": "minecraft:grass", "data": 25565},
+    {"item": "minecraft:potion"}
+  ],
+  "result": {
+    "item": "umares:green_juice",
+    "count": 1
+  }
+}

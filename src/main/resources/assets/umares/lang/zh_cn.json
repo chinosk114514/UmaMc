@@ -1,0 +1,26 @@
+{
+  "item.umares.uma_egg": "马娘蛋",
+  "entity.umaplg.uma_nicenature": "优秀素质",
+  "entity.umaplg.uma_mequeen": "目白麦昆",
+
+
+
+  "umaplg.umagui.t": "训练员",
+  "umaplg.umagui.speed_title": "速度",
+  "umaplg.umagui.endurance_title": "耐力",
+  "umaplg.umagui.power_title": "力量",
+  "umaplg.umagui.perse_title": "根性",
+  "umaplg.umagui.intelli_title": "智力",
+  "umaplg.umagui.love_title": "好感",
+  "umaplg.umagui.mood_title": "心情",
+  "umaplg.umagui.feed_title": "饱食度",
+  "umaplg.umagui.skill_title": "技能",
+
+  "umaplg.umagui.moodstyle.0": "???????????",
+  "umaplg.umagui.moodstyle.1": "绝不调",
+  "umaplg.umagui.moodstyle.2": "不调",
+  "umaplg.umagui.moodstyle.3": "普通",
+  "umaplg.umagui.moodstyle.4": "好调",
+  "umaplg.umagui.moodstyle.5": "绝好调",
+  "umaplg.umagui.moodstyle.6": "塔诺西!"
+}
